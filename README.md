@@ -39,3 +39,16 @@ Display the results of each players choice, and then the winner! After that, you
 - Utilize a while loop to allow the user to play multiple instances of the game during one execution of the program.
 - Keep a track of the user's and computer's games won and display this stats with the other results at the end of a game.
 - Extend this game to include more options, namely Rock, Paper, Scissors, Lizard, Spock, etc.
+
+## Legal Overview
+
+The content under the CodeWorks®, LLC Organization and all of the individual repos are soley intended for use by CodeWorks Instruction to deliver Educational content to CodeWorks Students.
+
+---
+
+## Copyright
+
+© CodeWorks® LLC, 2021. Unauthorized use and/or duplication of this material without express and written permission from CodeWorks, LLC is strictly prohibited.
+
+
+<img src="https://bcw.blob.core.windows.net/public/img/7815839041305055" width="125">
